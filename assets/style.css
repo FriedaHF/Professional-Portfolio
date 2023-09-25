@@ -1,15 +1,24 @@
-* {
-    padding: 0;
-    margin: 0;
+body {
+    background-color: #ffffff;
 }
 
 header {
-    padding: 20px;
-    background-color: #2a607c;
+    padding: 10px;
+    height: 60px;
+    background-color: black;
     color: #ffffff;
+}
+
+.hero {
+    height: 400px;
+    width: 100%;
+    margin-bottom: 25px;
+}
 
 h1 {
     display:inline-block;
+    color:black;
+    background-color:cyan;
 }
 
 nav {
@@ -27,4 +36,8 @@ nav a {
 h2 {
     display:inline;
     margin-right: 50px;
+}
+
+p {
+    display:inline;
 }
