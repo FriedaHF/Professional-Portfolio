@@ -10,12 +10,14 @@ header {
 }
 
 .hero {
-    height: 400px;
+    background-image: url(file:///c%3A/Users/fryha/Documents/UCF/homework/Professional-Portfolio/assets/blue-abstract-line-background_1409-893.avif);
+    margin:auto;
+    height: 100px;
     width: 100%;
-    margin-bottom: 25px;
 }
 
 h1 {
+    margin-left: 0;
     display:inline-block;
     color:black;
     background-color:cyan;
@@ -28,16 +30,26 @@ nav {
     font-size: 20px;
 }
 
+nav a:hover {
+    background-color: cyan;
+    color: black;
+}
 nav a {
-    color: #ffffff;
+    color: cyan;
     margin-left: 25px;
 }
 
-h2 {
-    display:inline;
-    margin-right: 50px;
+.About-Me h2 {
+    display: inline-block;
+    border-right: solid;
+    border-color: cyan;
 }
 
-p {
-    display:inline;
+.About-Me p {
+    display: inline;
+    margin-left: 200px;
+}
+
+main {
+    margin-left: 100px;
 }
