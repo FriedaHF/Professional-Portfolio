@@ -40,24 +40,7 @@ nav a {
     margin-left: 25px;
 }
 
-#About-Me h2{
-    text-align: right;
-    display: inline-block;
-    max-width: 10%;
-    margin: 10px;
-    padding-bottom: 100px;
-    padding-right: 15px;
-    border-right: solid;
-    border-right-color:aqua;
-}
-
-#About-Me p {
-    display:inline-block;
-    max-width: 60%;
-    margin: 10px;
-}
-
-#Work h2{
+h2{
     text-align: right;
     display: inline-block;
     width: 10%;
@@ -68,53 +51,18 @@ nav a {
     border-right-color:aqua;
 }
 
-#Work p {
-    display:inline-block;
-    max-width: 60%;
-    margin: 10px;
-}
-
-#Contact-Me h2{
-    text-align: right;
-    display: inline-block;
-    width: 10%;
-    margin: 10px;
-    padding-bottom: 100px;
-    padding-right: 15px;
-    border-right: solid;
-    border-right-color:aqua;
-}
-
-#Contact-Me p {
+p {
     display:inline-block;
     max-width: 60%;
     margin: 10px;
  }
 
- #Contact-Me a {
+ a {
     display:inline-block;
     max-width: 60%;
     margin: 10px;
  }
-
-
-#Resume h2{
-    text-align: right;
-    display: inline-block;
-    width: 10%;
-    margin: 10px;
-    padding-bottom: 100px;
-    padding-right: 15px;
-    border-right: solid;
-    border-right-color:aqua;
-}
-
-#Resume a {
-    display:inline-block;
-    max-width: 60%;
-    margin: 10px;
- }
-
+ 
 main {
     margin-left: 100px;
     padding: 10px;
