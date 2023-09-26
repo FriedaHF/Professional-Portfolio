@@ -120,6 +120,20 @@ main {
     padding: 10px;
 }
 
-@media screen {
-    
+@media screen and (max-width: 980px) {
+    header,
+        h1 {
+            background-size: 100%;
+            text-align: center;
+        }
+        nav {
+            background-color: black;
+        }
+    main,
+        h2 {
+            border-right-color: none;
+            border-bottom: solid;
+            border-bottom-color: cyan;
+            text-align: center;
+        }
 }
