@@ -10,7 +10,7 @@ A portfolio to showcase who I am professionally, the projects I have completed, 
 # Links
 
 Repo: https://github.com/FriedaHF/Professional-Portfolio.git
-Page: 
+Page: https://friedahf.github.io/Professional-Portfolio/
 
 # Reference
 
